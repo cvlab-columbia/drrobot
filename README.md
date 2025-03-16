@@ -108,7 +108,7 @@ To visualize the model training process, you may run `tensorboard --logdir outpu
 
 ## TODO 🚸
 
-- [ ] Fix the bug that tampers with training of some robots midway through training, some parameters were changed during the code clean-up, so please bear with us while we try to address this
+- [ ] Fix the bug that tampers with training of some robots midway through training, some parameters were changed during the code clean-up, so please bear with us while we try to address this. (Potential fix: https://github.com/cvlab-columbia/drrobot/issues/9)
 
 ## Acknowledgements 🙏
 
